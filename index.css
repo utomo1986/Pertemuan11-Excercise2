@@ -1,0 +1,31 @@
+
+body {
+  background-image: url("bg.jpg");
+  text-align: center;
+  align-items: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.flag {
+    text-align: center;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.country {
+  margin: 30px;
+  display:flex;
+  flex-direction: column;
+}
+
+img {
+  width: 120px;
+  height: 80px;
+}
+
+.cards {
+	width: 300px;
+	margin: 5px 10px;
+}
